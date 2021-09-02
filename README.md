@@ -9,7 +9,7 @@ Using a provided source file that contains election results the purpose of this 
 4. Calculate the percent of the total vote each candidate received
 5. Determine the winner of the election based on popular vote
 
-##Resources
+## Resources
 -Data Source: election_results.csv
 -Software:  Python 3.7.6, Visual Studio Code 1.59.1
 
